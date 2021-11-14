@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		54491D722740A34500AE48D7 /* Alerts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54491D712740A34500AE48D7 /* Alerts.swift */; };
 		548C86BE272F402F00E2567E /* tictacApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 548C86BD272F402F00E2567E /* tictacApp.swift */; };
 		548C86C0272F403000E2567E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 548C86BF272F403000E2567E /* ContentView.swift */; };
 		548C86C2272F403100E2567E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 548C86C1272F403100E2567E /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		54491D712740A34500AE48D7 /* Alerts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alerts.swift; sourceTree = "<group>"; };
 		548C86BA272F402F00E2567E /* tictac.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tictac.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		548C86BD272F402F00E2567E /* tictacApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tictacApp.swift; sourceTree = "<group>"; };
 		548C86BF272F403000E2567E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				548C86C1272F403100E2567E /* Assets.xcassets */,
 				548C86C6272F403100E2567E /* Info.plist */,
 				548C86C3272F403100E2567E /* Preview Content */,
+				54491D712740A34500AE48D7 /* Alerts.swift */,
 			);
 			path = tictac;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				548C86C0272F403000E2567E /* ContentView.swift in Sources */,
+				54491D722740A34500AE48D7 /* Alerts.swift in Sources */,
 				548C86BE272F402F00E2567E /* tictacApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
